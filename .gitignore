@@ -1,0 +1,21 @@
+# Old synthetic data — the app downloads the real dataset
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Generated outputs
+results/
+*.png
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
